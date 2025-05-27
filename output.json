@@ -1,0 +1,763 @@
+{
+  "data": [
+    {
+      "link": "",
+      "items": [
+        {
+          "badge": null,
+          "price": 10,
+          "imageUrl": "item_1.png",
+          "itemCode": 1588,
+          "itemName": "Britannia Milk Bikis 91g (60)",
+          "originalPrice": 10
+        },
+        {
+          "badge": null,
+          "price": 30,
+          "imageUrl": "item_1.png",
+          "itemCode": 28157,
+          "itemName": "Maggi Pazzta Mushroom Penne 64g (96)",
+          "originalPrice": 30
+        },
+        {
+          "badge": null,
+          "price": 160,
+          "imageUrl": "logo.png",
+          "itemCode": 36377,
+          "itemName": "Marino Momento Cookies Cashew Nut 500g (12) 1 Nos",
+          "originalPrice": 160
+        },
+        {
+          "badge": null,
+          "price": 100,
+          "imageUrl": "item_1.png",
+          "itemCode": 20221,
+          "itemName": "Epigamia Artisanal Curd 400g (12)",
+          "originalPrice": 100
+        },
+        {
+          "badge": null,
+          "price": 262,
+          "imageUrl": "item_1.png",
+          "itemCode": 4093,
+          "itemName": "Colgate Active Salt 500g (12)",
+          "originalPrice": 262
+        },
+        {
+          "badge": null,
+          "price": 69,
+          "imageUrl": "item_1.png",
+          "itemCode": 36191,
+          "itemName": "Sp Raw Seed Mix 100g",
+          "originalPrice": 69
+        },
+        {
+          "badge": null,
+          "price": 180,
+          "imageUrl": "item_1.png",
+          "itemCode": 23117,
+          "itemName": "Amul Chocolate India Origin Milk 125g (40)",
+          "originalPrice": 180
+        },
+        {
+          "badge": null,
+          "price": 75,
+          "imageUrl": "item_1.png",
+          "itemCode": 4043,
+          "itemName": "Colgate Tooth Brush Zig Zag Medium B2g1 Free (6)",
+          "originalPrice": 75
+        },
+        {
+          "badge": null,
+          "price": 52,
+          "imageUrl": "item_1.png",
+          "itemCode": 5051,
+          "itemName": "Rin Detergent Pwd 500g (50)",
+          "originalPrice": 52
+        },
+        {
+          "badge": null,
+          "price": 80,
+          "imageUrl": "",
+          "itemCode": 876,
+          "itemName": "Maggi Noodles Spicy Garlic 248g (24)",
+          "originalPrice": 80
+        },
+        {
+          "badge": null,
+          "price": 99,
+          "imageUrl": "item_1.png",
+          "itemCode": 11691,
+          "itemName": "Wingreens Cheesy Chipotle Sauce 180g (30)",
+          "originalPrice": 99
+        }
+      ],
+      "groupId": "supersaver",
+      "groupTitle": "Super Saver",
+      "widget_type": "horizontal"
+    },
+    {
+      "items": [
+        {
+          "badge": null,
+          "price": 120,
+          "imageUrl": "item_1.png",
+          "itemCode": 1420,
+          "itemName": "Cadbury Fuse home Treats 108g (32)",
+          "originalPrice": 120
+        },
+        {
+          "badge": null,
+          "price": 319,
+          "imageUrl": "item_1.png",
+          "itemCode": 1028,
+          "itemName": "Horlicks Lite Badam 450g Refil (24)",
+          "originalPrice": 319
+        },
+        {
+          "badge": null,
+          "price": 151,
+          "imageUrl": "item_1.png",
+          "itemCode": 3036,
+          "itemName": "Nand Gokul Ghee 200ml (75)",
+          "originalPrice": 151
+        },
+        {
+          "badge": null,
+          "price": 30,
+          "imageUrl": "logo.png",
+          "itemCode": 21832,
+          "itemName": "Sunfeast Caker Sliced Mixed Fruit 110g (30) 1 Nos",
+          "originalPrice": 30
+        },
+        {
+          "badge": null,
+          "price": 155,
+          "imageUrl": "logo.png",
+          "itemCode": 18106,
+          "itemName": "Aashirvaad Natures Super Food Organic Uraddal 500g (24) 1 Nos",
+          "originalPrice": 155
+        },
+        {
+          "badge": null,
+          "price": 140,
+          "imageUrl": "item_1.png",
+          "itemCode": 29878,
+          "itemName": "Pears Shower Gel Pure&gentle 250ml (24)",
+          "originalPrice": 140
+        },
+        {
+          "badge": null,
+          "price": 110,
+          "imageUrl": "item_1.png",
+          "itemCode": 5614,
+          "itemName": "Whisper Maxi Nights Xl Wings Extra Heavy Flow 7 Pads ( 60))",
+          "originalPrice": 110
+        },
+        {
+          "badge": null,
+          "price": 190,
+          "imageUrl": "item_1.png",
+          "itemCode": 28067,
+          "itemName": "Rexona Roll On Aloe Vera 50ml (24)",
+          "originalPrice": 190
+        },
+        {
+          "badge": null,
+          "price": 369,
+          "imageUrl": "",
+          "itemCode": 16190,
+          "itemName": "Tata Soulfull Millet Muesli Crnchy 500g Pch (18)",
+          "originalPrice": 369
+        }
+      ],
+      "groupTitle": "Brand Deals",
+      "widget_type": "multi_line_horizontal"
+    },
+    {
+      "items": [
+        {
+          "badge": null,
+          "price": 20,
+          "imageUrl": "item_1.png",
+          "itemCode": 17690,
+          "itemName": "Cremica Biscuit Digestive 150g (48)",
+          "originalPrice": 20
+        },
+        {
+          "badge": null,
+          "price": 38,
+          "imageUrl": "item_1.png",
+          "itemCode": 4801,
+          "itemName": "Wheel Active Pwd Lemon & Jasmine 500g (30)",
+          "originalPrice": 38
+        },
+        {
+          "badge": null,
+          "price": 300,
+          "imageUrl": "item_1.png",
+          "itemCode": 30356,
+          "itemName": "Hersheys Spreads Cocoa 350g (12)",
+          "originalPrice": 300
+        },
+        {
+          "badge": null,
+          "price": 34,
+          "imageUrl": "item_1.png",
+          "itemCode": 2290,
+          "itemName": "Murmura Fine 200g",
+          "originalPrice": 34
+        },
+        {
+          "badge": null,
+          "price": 71.25,
+          "imageUrl": "item_1.png",
+          "itemCode": 11770,
+          "itemName": "Fiama Gel Bar Peach&avocado 125g (36)",
+          "originalPrice": 71.25
+        },
+        {
+          "badge": null,
+          "price": 150,
+          "imageUrl": "item_1.png",
+          "itemCode": 522,
+          "itemName": "Brown&polson Custard Pwd Vanilla 500g (24)",
+          "originalPrice": 150
+        },
+        {
+          "badge": null,
+          "price": 60,
+          "imageUrl": "logo.png",
+          "itemCode": 34371,
+          "itemName": "Popular Boondi Laddu 180g 1 Nos",
+          "originalPrice": 60
+        },
+        {
+          "badge": null,
+          "price": 15,
+          "imageUrl": "logo.png",
+          "itemCode": 35026,
+          "itemName": "Saffola Oats Masala Karara Crunch 42g (12) 1 Nos",
+          "originalPrice": 15
+        },
+        {
+          "badge": null,
+          "price": 320,
+          "imageUrl": "item_1.png",
+          "itemCode": 16772,
+          "itemName": "Nivea Soft Cream 200ml",
+          "originalPrice": 320
+        },
+        {
+          "badge": null,
+          "price": 111,
+          "imageUrl": "item_1.png",
+          "itemCode": 6400,
+          "itemName": "Tide Bar White 200g*5pc Set (12)",
+          "originalPrice": 111
+        },
+        {
+          "badge": null,
+          "price": 30,
+          "imageUrl": "item_1.png",
+          "itemCode": 16756,
+          "itemName": "Zubi Lollipop 20g (48)",
+          "originalPrice": 30
+        }
+      ],
+      "groupTitle": "Deals on Categories",
+      "widget_type": "horizontal"
+    },
+    {
+      "items": [
+        {
+          "badge": null,
+          "price": 789,
+          "imageUrl": "item_1.png",
+          "itemCode": 14256,
+          "itemName": "Fortune Oil Sunlite Sunflower 5lt Can (4)",
+          "originalPrice": 789
+        },
+        {
+          "badge": null,
+          "price": 45,
+          "imageUrl": "item_1.png",
+          "itemCode": 5733,
+          "itemName": "Zandu Balm 8g (20)",
+          "originalPrice": 45
+        },
+        {
+          "badge": null,
+          "price": 299,
+          "imageUrl": "item_1.png",
+          "itemCode": 1832,
+          "itemName": "Z Deo Spray 175ml",
+          "originalPrice": 299
+        },
+        {
+          "badge": null,
+          "price": 410,
+          "imageUrl": "item_1.png",
+          "itemCode": 35343,
+          "itemName": "Tresemme Shampo Hair Fall Defense 340ml (24)",
+          "originalPrice": 410
+        },
+        {
+          "badge": null,
+          "price": 115,
+          "imageUrl": "logo.png",
+          "itemCode": 25180,
+          "itemName": "Harpic Power Plus Joyful Jasmine 500ml (24) 1 Nos",
+          "originalPrice": 115
+        },
+        {
+          "badge": null,
+          "price": 30,
+          "imageUrl": "item_1.png",
+          "itemCode": 1562,
+          "itemName": "Britannia Vita Marie Gold 150g (40)",
+          "originalPrice": 30
+        },
+        {
+          "badge": null,
+          "price": 96,
+          "imageUrl": "item_1.png",
+          "itemCode": 3745,
+          "itemName": "Pepsodent Tooth Brush Gum Expert Soft B2g1free (48)",
+          "originalPrice": 96
+        },
+        {
+          "badge": null,
+          "price": 99,
+          "imageUrl": "item_1.png",
+          "itemCode": 15201,
+          "itemName": "Only Sea Salt Grinder 100g (12)",
+          "originalPrice": 99
+        },
+        {
+          "badge": null,
+          "price": 65,
+          "imageUrl": "item_1.png",
+          "itemCode": 29191,
+          "itemName": "Health Sutra Rawa Jowar Idly 500g (50)",
+          "originalPrice": 65
+        },
+        {
+          "badge": null,
+          "price": 36,
+          "imageUrl": "item_1.png",
+          "itemCode": 1472,
+          "itemName": "Britannia Bourbon 150g (36)",
+          "originalPrice": 36
+        },
+        {
+          "badge": null,
+          "price": 110,
+          "imageUrl": "item_1.png",
+          "itemCode": 11779,
+          "itemName": "Garnier Men Face Wash Oil Clear 50g",
+          "originalPrice": 110
+        },
+        {
+          "badge": null,
+          "price": 75,
+          "imageUrl": "logo.png",
+          "itemCode": 13617,
+          "itemName": "Nutritius Chikki Dry Fruit Chikki With Jaggery 50g (12) 1 Nos",
+          "originalPrice": 75
+        }
+      ],
+      "groupTitle": "Top Picks This Week",
+      "widget_type": "horizontal"
+    },
+    {
+      "items": [
+        {
+          "badge": null,
+          "price": 20,
+          "imageUrl": "item_1.png",
+          "itemCode": 17690,
+          "itemName": "Cremica Biscuit Digestive 150g (48)",
+          "originalPrice": 20
+        },
+        {
+          "badge": null,
+          "price": 38,
+          "imageUrl": "item_1.png",
+          "itemCode": 4801,
+          "itemName": "Wheel Active Pwd Lemon & Jasmine 500g (30)",
+          "originalPrice": 38
+        },
+        {
+          "badge": null,
+          "price": 300,
+          "imageUrl": "item_1.png",
+          "itemCode": 30356,
+          "itemName": "Hersheys Spreads Cocoa 350g (12)",
+          "originalPrice": 300
+        },
+        {
+          "badge": null,
+          "price": 34,
+          "imageUrl": "item_1.png",
+          "itemCode": 2290,
+          "itemName": "Murmura Fine 200g",
+          "originalPrice": 34
+        },
+        {
+          "badge": null,
+          "price": 71.25,
+          "imageUrl": "item_1.png",
+          "itemCode": 11770,
+          "itemName": "Fiama Gel Bar Peach&avocado 125g (36)",
+          "originalPrice": 71.25
+        },
+        {
+          "badge": null,
+          "price": 150,
+          "imageUrl": "item_1.png",
+          "itemCode": 522,
+          "itemName": "Brown&polson Custard Pwd Vanilla 500g (24)",
+          "originalPrice": 150
+        },
+        {
+          "badge": null,
+          "price": 60,
+          "imageUrl": "logo.png",
+          "itemCode": 34371,
+          "itemName": "Popular Boondi Laddu 180g 1 Nos",
+          "originalPrice": 60
+        },
+        {
+          "badge": null,
+          "price": 15,
+          "imageUrl": "logo.png",
+          "itemCode": 35026,
+          "itemName": "Saffola Oats Masala Karara Crunch 42g (12) 1 Nos",
+          "originalPrice": 15
+        },
+        {
+          "badge": null,
+          "price": 320,
+          "imageUrl": "item_1.png",
+          "itemCode": 16772,
+          "itemName": "Nivea Soft Cream 200ml",
+          "originalPrice": 320
+        },
+        {
+          "badge": null,
+          "price": 111,
+          "imageUrl": "item_1.png",
+          "itemCode": 6400,
+          "itemName": "Tide Bar White 200g*5pc Set (12)",
+          "originalPrice": 111
+        },
+        {
+          "badge": null,
+          "price": 30,
+          "imageUrl": "item_1.png",
+          "itemCode": 16756,
+          "itemName": "Zubi Lollipop 20g (48)",
+          "originalPrice": 30
+        }
+      ],
+      "groupTitle": "Healthy Choices",
+      "widget_type": "horizontal"
+    },
+    {
+      "items": [
+        {
+          "badge": null,
+          "price": 184,
+          "imageUrl": "item_1.png",
+          "itemCode": 24122,
+          "itemName": "Freedom Sunflower Oil 1lt Jar (12)",
+          "originalPrice": 184
+        },
+        {
+          "badge": null,
+          "price": 54.6,
+          "imageUrl": "item_1.png",
+          "itemCode": 23092,
+          "itemName": "Mangaldeep Agarbati Lavander 76 Sticks (60)",
+          "originalPrice": 54.6
+        },
+        {
+          "badge": null,
+          "price": 10,
+          "imageUrl": "logo.png",
+          "itemCode": 19776,
+          "itemName": "Smoodh Flavoured Milk Coffee Frappe 80ml Tetra (160) 1 Nos",
+          "originalPrice": 10
+        },
+        {
+          "badge": null,
+          "price": 40,
+          "imageUrl": "",
+          "itemCode": 19485,
+          "itemName": "Coco Frut Juice Mango 300ml (24)",
+          "originalPrice": 40
+        },
+        {
+          "badge": null,
+          "price": 65,
+          "imageUrl": "item_1.png",
+          "itemCode": 31054,
+          "itemName": "Knorr Soup Inter Thai Vegetable (12)",
+          "originalPrice": 65
+        },
+        {
+          "badge": null,
+          "price": 40,
+          "imageUrl": "item_1.png",
+          "itemCode": 67,
+          "itemName": "Tc Yellow Rings Long 200g",
+          "originalPrice": 40
+        },
+        {
+          "badge": null,
+          "price": 249,
+          "imageUrl": "item_1.png",
+          "itemCode": 16721,
+          "itemName": "Nivea Deo Roll On Pearl&beauty Pink 50ml (24)",
+          "originalPrice": 249
+        },
+        {
+          "badge": null,
+          "price": 110,
+          "imageUrl": null,
+          "itemCode": 16087,
+          "itemName": "Galaxy Smooth Milk Bar 56g (12)",
+          "originalPrice": 110
+        },
+        {
+          "badge": null,
+          "price": 164,
+          "imageUrl": "item_1.png",
+          "itemCode": 5126,
+          "itemName": "Sunsilk Shampoo Stunning Black Shine 180ml (36)",
+          "originalPrice": 164
+        },
+        {
+          "badge": null,
+          "price": 120,
+          "imageUrl": "item_1.png",
+          "itemCode": 1798,
+          "itemName": "Hit Flies & Mosquitoes 225ml (60)",
+          "originalPrice": 120
+        },
+        {
+          "badge": null,
+          "price": 129,
+          "imageUrl": null,
+          "itemCode": 16069,
+          "itemName": "Eat Millet Multi Millet Upma Rava 500g (30)",
+          "originalPrice": 129
+        },
+        {
+          "badge": null,
+          "price": 70,
+          "imageUrl": "item_1.png",
+          "itemCode": 34976,
+          "itemName": "Hersheys Exotic Dark guava & Mexican Chili Flavor 30g (96)",
+          "originalPrice": 70
+        }
+      ],
+      "groupTitle": "Kids Favorites",
+      "widget_type": "horizontal"
+    },
+    {
+      "items": [
+        {
+          "badge": null,
+          "price": 100,
+          "imageUrl": "item_1.png",
+          "itemCode": 27553,
+          "itemName": "Vjt Palli Fry 250g",
+          "originalPrice": 100
+        },
+        {
+          "badge": null,
+          "price": 50,
+          "imageUrl": "",
+          "itemCode": 19247,
+          "itemName": "Yoga Bar Protein 10g Bluberry Blast 50g  (6)",
+          "originalPrice": 50
+        },
+        {
+          "badge": null,
+          "price": 65,
+          "imageUrl": "item_1.png",
+          "itemCode": 24225,
+          "itemName": "Hersheys Choclate Cookie N Crème 40g (12)",
+          "originalPrice": 65
+        },
+        {
+          "badge": null,
+          "price": 160,
+          "imageUrl": "item_1.png",
+          "itemCode": 27021,
+          "itemName": "Ayush Soap Cool & Fresh Aloevera 100*5pc Set (18)",
+          "originalPrice": 160
+        },
+        {
+          "badge": null,
+          "price": 142.5,
+          "imageUrl": "item_1.png",
+          "itemCode": 5490,
+          "itemName": "Nivea Deo Spray Fresh Active 150ml",
+          "originalPrice": 142.5
+        },
+        {
+          "badge": null,
+          "price": 99,
+          "imageUrl": "item_1.png",
+          "itemCode": 32072,
+          "itemName": "Funfoods Sandwich Spread 250g Cucumber & Carrot",
+          "originalPrice": 99
+        },
+        {
+          "badge": null,
+          "price": 230,
+          "imageUrl": "item_1.png",
+          "itemCode": 14130,
+          "itemName": "Amul Icecream Tub Vanilla 1ltr",
+          "originalPrice": 230
+        },
+        {
+          "badge": null,
+          "price": 45,
+          "imageUrl": null,
+          "itemCode": 11978,
+          "itemName": "Heritage Milk Buffealo 500ml Pouch (24)",
+          "originalPrice": 45
+        },
+        {
+          "badge": null,
+          "price": 60,
+          "imageUrl": "item_1.png",
+          "itemCode": 20695,
+          "itemName": "Epigamia Greek Yogurt Natural 90g (48)",
+          "originalPrice": 60
+        },
+        {
+          "badge": null,
+          "price": 55,
+          "imageUrl": "item_1.png",
+          "itemCode": 3286,
+          "itemName": "Mediker Sham 50ml (80)",
+          "originalPrice": 55
+        },
+        {
+          "badge": null,
+          "price": 600,
+          "imageUrl": "item_1.png",
+          "itemCode": 28905,
+          "itemName": "Lipton Green Tea Bags Honey Lemon 100 Bags (6)",
+          "originalPrice": 600
+        },
+        {
+          "badge": null,
+          "price": 49,
+          "imageUrl": null,
+          "itemCode": 1842,
+          "itemName": "Bakers Dozen Whole Wheat Pav Zero Maida 240g",
+          "originalPrice": 49
+        }
+      ],
+      "groupTitle": "Ready to Cook",
+      "widget_type": "horizontal"
+    },
+    {
+      "items": [
+        {
+          "badge": null,
+          "price": 120,
+          "imageUrl": "item_1.png",
+          "itemCode": 7514,
+          "itemName": "Girijan Coffee Pwd 70:30 Blend 200g (70)",
+          "originalPrice": 120
+        },
+        {
+          "badge": null,
+          "price": 44.55,
+          "imageUrl": "logo.png",
+          "itemCode": 3122,
+          "itemName": "Godrej Magic Ready To Mix Body Wash Refill Lavander 37g 1 Nos",
+          "originalPrice": 44.55
+        },
+        {
+          "badge": null,
+          "price": 160,
+          "imageUrl": "logo.png",
+          "itemCode": 27969,
+          "itemName": "Bnatural Select Tender Coconut Water 750ml Pet (12) 1 Nos",
+          "originalPrice": 160
+        },
+        {
+          "badge": null,
+          "price": 175,
+          "imageUrl": "item_1.png",
+          "itemCode": 21731,
+          "itemName": "Chabaa Mixed Fruit Jam 240gm (12)",
+          "originalPrice": 175
+        },
+        {
+          "badge": null,
+          "price": 149,
+          "imageUrl": "item_1.png",
+          "itemCode": 4288,
+          "itemName": "Harpic Bathroom Cleaning Spray 400ml (24)",
+          "originalPrice": 149
+        },
+        {
+          "badge": null,
+          "price": 30,
+          "imageUrl": "logo.png",
+          "itemCode": 11482,
+          "itemName": "Malkist Cracker Chocolate 72g (48) 1 Nos",
+          "originalPrice": 30
+        },
+        {
+          "badge": null,
+          "price": 275,
+          "imageUrl": "item_1.png",
+          "itemCode": 30390,
+          "itemName": "Fogg Deo Spray Women Paradise 150ml",
+          "originalPrice": 275
+        },
+        {
+          "badge": null,
+          "price": 35,
+          "imageUrl": "item_1.png",
+          "itemCode": 602,
+          "itemName": "Swastik Mirch Pwd 100g (50)",
+          "originalPrice": 35
+        },
+        {
+          "badge": null,
+          "price": 82,
+          "imageUrl": "item_1.png",
+          "itemCode": 3066,
+          "itemName": "Sai Flora Agarbathi 50g (20)",
+          "originalPrice": 82
+        },
+        {
+          "badge": null,
+          "price": 80,
+          "imageUrl": "item_1.png",
+          "itemCode": 30695,
+          "itemName": "Padmini Tapas Incense Sticks 40g",
+          "originalPrice": 80
+        }
+      ],
+      "groupTitle": "Top Offers",
+      "widget_type": "horizontal"
+    },
+    {
+      "items": [],
+      "groupTitle": "Custom Groupings",
+      "widget_type": "horizontal"
+    }
+  ]
+}
